@@ -1,0 +1,25 @@
+ h1{
+                color: red;
+                margin: 30px;
+            }
+
+            td{
+                padding: 5px;
+            }
+
+            body{
+                background-color: aquamarine;
+            }
+
+            table{
+                background-color: rgb(102, 163, 163);
+            }
+
+            .the-header{
+                background-color: gray;
+                color: white;
+            }
+
+            #break-time{
+                color: aqua;
+            }
